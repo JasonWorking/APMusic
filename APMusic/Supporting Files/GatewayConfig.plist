@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Debug</key>
+	<dict>
+		<key>mPaasPushAppId</key>
+		<string>APPKEY_IOS</string>
+		<key>mPaasLogServerGateway</key>
+		<string>http://</string>
+		<key>mPaasLogProductId</key>
+		<string>APPKEY_IOS-0000000000</string>
+		<key>mPaasRpcGateway</key>
+		<string>http://</string>
+		<key>mPaasRpcETagURL</key>
+		<string>http://</string>
+	</dict>
+	<key>Pre-release</key>
+	<dict>
+		<key>mPaasPushAppId</key>
+		<string>APPKEY_IOS</string>
+		<key>mPaasLogServerGateway</key>
+		<string>http://</string>
+		<key>mPaasLogProductId</key>
+		<string>APPKEY_IOS-0000000000</string>
+		<key>mPaasRpcGateway</key>
+		<string>http://</string>
+		<key>mPaasRpcETagURL</key>
+		<string>http://</string>
+	</dict>
+	<key>Release</key>
+	<dict>
+		<key>mPaasPushAppId</key>
+		<string>APPKEY_IOS</string>
+		<key>mPaasLogServerGateway</key>
+		<string>http://</string>
+		<key>mPaasLogProductId</key>
+		<string>APPKEY_IOS-0000000000</string>
+		<key>mPaasRpcGateway</key>
+		<string>http://</string>
+		<key>mPaasRpcETagURL</key>
+		<string>http://</string>
+	</dict>
+</dict>
+</plist>

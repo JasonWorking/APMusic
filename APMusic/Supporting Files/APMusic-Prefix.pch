@@ -1,0 +1,13 @@
+//
+//  APMusic-Prefix.pch
+//  APMusic
+//
+//  Created by Jason on 3/21/16.
+//  Copyright (c) 2016 Jason. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+
+#endif
